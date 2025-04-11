@@ -111,7 +111,7 @@ nav li a {
    border-radius: 400px;
  }
  
- /* ✅ Responsive Media Query */
+ 
  @media (max-width: 768px) {
    nav li {
      display: block;
